@@ -1,4 +1,4 @@
-# Hiring-Predictor
+# Hiring-Attrition Predictor
 This application used Random forest method to determine the chances of New hire employees to churn in less than 3 months.
 80% of the data is used as the training set while 20% utilized as test set.
 This is so a good model for predicting attrition in call center industry.
