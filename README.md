@@ -8,4 +8,4 @@ Error rate will improve depending on the available data and setting of training 
 Random forest create multiple decision trees and combined together to get a more accurate and stable prediction.
 It is a popular machine learning algorithm.
 
-This is a good model for predicting attrition in call center industry.
+This is a good model for predicting attrition in Call Center industry.
